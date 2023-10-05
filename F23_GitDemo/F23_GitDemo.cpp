@@ -5,6 +5,6 @@
 
 int main()
 {
-    std::cout << "Hello Gail!\n";
+    std::cout << "Hello Gail and GameProgramming students at Humber!\n";
 }
 
